@@ -11,9 +11,9 @@
 |2024XXXXX|전조영|(github link)|(email)|
 |2024XXXXX|조은하|(github link)|(email)|
 
-# Project Structure
----
 
+## Project Structure
+---
 ```
 main_program/
 │
@@ -39,21 +39,25 @@ main_program/
 └── README.md            # 인원, 라이브러리, 라이선스를 포함한 내용
 ```
 
-# Requirements: (with versions we tested on)
+
+## Requirements: (with versions we tested on)
 ---
 python(verion)
 
-# How Project Works
----
-introduction of how project works
-using like logic or the process of it works in word
-we can write this with 'How to run' category
 
-# How to run
+## How Project Works
+---
+(This chapter introduces how project works and is written like logic 
+we can write this category with 'How to run' category, but I don't know which is better. so, for now, I separated them.)
+
+
+## How to run
 ---
 **Commands to run the detection**
-```command of starting project```
 
-This chapter deals with how to install this project, commands intoducing how to run this project and the 
-# 참고자료
+```command of starting project```
+(This chapter contains 1.how to install this repository 2.how to run this repository 3.result of this repository after running) 
+
+
+## 참고자료
 ---
