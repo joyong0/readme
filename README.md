@@ -39,23 +39,22 @@ main_program/
 
 
 ## Requirements: (with versions we tested on)
----
-python(verion)
+ex) python(3.12)
 
 
 ## How Project Works
----
 (This chapter introduces how project works and is written like logic 
 we can write this category with 'How to run' category, but I don't know which is better. so, for now, I separated them.)
 
 
 ## How to run
----
 **Commands to run the detection**
 
 ```command of starting project```
 (This chapter contains 1.how to install this repository 2.how to run this repository 3.result of this repository after running) 
 
 
-## 참고자료
----
+## References
+
+
+## limitation
