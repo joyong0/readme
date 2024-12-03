@@ -50,8 +50,8 @@ ex) python(3.12)
 (results of this repository after running)
 
 
-## References
-(references)
+## Reference materials
+(references we refered to)
 
 ## limitation
 (limitation of this repository)
