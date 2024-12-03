@@ -1,10 +1,8 @@
 # (project name)
----
 (introduction of project)
 
----
+
 # Team Member
----
 |Student Number|Name|Github Profile|Email|
 |--------------|----|--------------|-----|
 |2024XXXXX|황다현(조장)|(github link)|(email)|
@@ -13,7 +11,6 @@
 
 
 ## Project Structure
----
 The directory structure for this repository is as follows:
 ```
 main_program/
