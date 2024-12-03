@@ -48,13 +48,15 @@ we can write this category with 'How to run' category, but I don't know which is
 
 
 ## How to run
+(This chapter contains 1.how to install this repository 2.how to run this repository 3.result of this repository after running) 
+
 **Commands to run the detection**
 
 ```command of starting project```
-(This chapter contains 1.how to install this repository 2.how to run this repository 3.result of this repository after running) 
 
 
 ## References
-
+(references)
 
 ## limitation
+(limitation of this repository)
