@@ -14,6 +14,7 @@
 
 ## Project Structure
 ---
+The directory structure for this repository is as follows:
 ```
 main_program/
 │
