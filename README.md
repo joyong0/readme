@@ -43,7 +43,7 @@ ex) python(3.12)
 
 
 ## How to run
-(This chapter contains how to install this repository and how to run this repository) 
+(how to install this repository and how to run this repository) 
 
 ex)
 
