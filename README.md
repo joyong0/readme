@@ -46,9 +46,10 @@ ex) python(3.12)
 (This chapter contains how to install this repository and how to run this repository) 
 
 ex)
+
 **Commands to run the detection**
 
-```command of starting project```
+```(command of starting project)```
 
 
 ## Results
