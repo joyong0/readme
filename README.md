@@ -2,7 +2,7 @@
 (introduction of project)
 
 
-# Team Member
+## Team Member
 |Student Number|Name|Github Profile|Email|
 |--------------|----|--------------|-----|
 |2024XXXXX|황다현(조장)|(github link)|(email)|
