@@ -17,12 +17,17 @@ introduction of project
 ---
 python(verion)
 
-# Project Running Process
+# How Project Works
+---
+introduction of how project works
+using like logic or the process of it works in word
+we can write this with 'How to run' category
+
+# How to run
 ---
 **Commands to run the detection**
 ```command of starting project```
 
-# How to run
----
+This chapter deals with how to install this project, commands intoducing how to run this project and the 
 # 참고자료
 ---
