@@ -14,7 +14,8 @@
 # Project Structure
 ---
 
-'''main_program/
+```
+main_program/
 │
 ├── skin_tone_test/             # 피부톤 판정 테스트 관련 모듈
 │   ├── __init__.py             # 패키지 초기화 파일
@@ -35,7 +36,8 @@
 ├── __init__.py                 # 패키지 초기화 파일
 ├── main.py                     # 메인 프로그램 파일 
 │                               (모든 프로그램을 관리)
-└── README.md            # 인원, 라이브러리, 라이선스를 포함한 내용'''
+└── README.md            # 인원, 라이브러리, 라이선스를 포함한 내용
+```
 
 # Requirements: (with versions we tested on)
 ---
