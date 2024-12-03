@@ -6,7 +6,7 @@
 |Student Number|Name|Github Profile|Email|
 |--------------|----|--------------|-----|
 |2024XXXXX|황다현(조장)|(github link)|(email)|
-|2024XXXXX|전조영|(github link)|(email)|
+|202434662|전조영|[(github link)](https://github.com/joyong0)|wjswhdud1119@naver.com|
 |2024XXXXX|조은하|(github link)|(email)|
 
 
