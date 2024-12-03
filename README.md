@@ -42,17 +42,17 @@ main_program/
 ex) python(3.12)
 
 
-## How Project Works
-(This chapter introduces how project works and is written like logic 
-we can write this category with 'How to run' category, but I don't know which is better. so, for now, I separated them.)
-
-
 ## How to run
-(This chapter contains 1.how to install this repository 2.how to run this repository 3.result of this repository after running) 
+(This chapter contains how to install this repository and how to run this repository) 
 
+ex)
 **Commands to run the detection**
 
 ```command of starting project```
+
+
+## Results
+(results of this repository after running)
 
 
 ## References
