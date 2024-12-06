@@ -1,4 +1,4 @@
-# (project name)
+# Face Visual Tests With OpenCV
 This repository is term project of Group 79 of 'Open Source Software Course' at Gachon University. It consists of three parts and each part consists of a skin tone test, facial asymmetry test, and art recommendation test.
 
 In skin tone test, we deal with ~
@@ -44,12 +44,24 @@ main_program/
 
 
 ## Requirements: (with versions we tested on)
-ex) python(3.12)
-
+OpenCV (4.5.1) – for facial detection and image processing.
+DeepFace (0.0.75) – for facial emotion analysis.
+numpy (1.21.2) – for handling numerical data.
+random – part of Python's standard library for generating random numbers.
+json – part of Python's standard library for reading and parsing JSON files.
+Tkinter (8.6)
+Tcl (8.6)
 
 ## How to run
-(how to install this repository and how to run this repository) 
+1. Start the program by running the main.py file.
 
+2. Select one of the options to start the corresponding test.(The user is presented with three options in the GUI: Skin Tone Test, Facial Asymmetry Test, and Art Recommendation.)
+
+For Skin Tone Test, the user can either take a photo or upload an image.
+
+For Facial Asymmetry Test, the user can upload an image of their face for analysis.
+
+For Art Recommendation, the program analyzes the user's facial expression to suggest suitable artwork.
 
 ## Results
 (results of this repository after running)
@@ -59,4 +71,8 @@ ex) python(3.12)
 (references)
 
 ## limitation
-(limitation of this repository)
+Face Detection Accuracy: The CascadeClassifier from OpenCV may not perform well under poor lighting or certain angles.
+DeepFace Performance: Emotion analysis by DeepFace may be inaccurate if the face is unclear or poorly detected.
+Artwork Recommendation Accuracy: The recommendation system may be limited to the input data and may not fully reflect personal preferences.
+Real-Time Performance: This program may experience performance issues when processing large amounts of data in real-time.
+Beard and Hair Length Detection: Accurate detection of beard presence and hair length is difficult. 
