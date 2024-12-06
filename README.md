@@ -2,7 +2,7 @@
 This repository is term project of Group 79 of 'Open Source Software Course' at Gachon University. It consists of three parts and each part consists of a skin tone test, facial asymmetry test, and art recommendation test.
 
 In skin tone test, we deal with ~
-
+ㅡㅏ
 In facial asymmetry test, we deal with ~
 
 In art recommendation test, we deal with ~
