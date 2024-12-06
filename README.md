@@ -45,11 +45,17 @@ main_program/
 
 ## Requirements: (with versions we tested on)
 OpenCV (4.5.1) – for facial detection and image processing.
+
 DeepFace (0.0.75) – for facial emotion analysis.
+
 numpy (1.21.2) – for handling numerical data.
+
 random – part of Python's standard library for generating random numbers.
+
 json – part of Python's standard library for reading and parsing JSON files.
+
 Tkinter (8.6)
+
 Tcl (8.6)
 
 ## How to run
@@ -71,8 +77,12 @@ For Art Recommendation, the program analyzes the user's facial expression to sug
 (references)
 
 ## limitation
-Face Detection Accuracy: The CascadeClassifier from OpenCV may not perform well under poor lighting or certain angles.
-DeepFace Performance: Emotion analysis by DeepFace may be inaccurate if the face is unclear or poorly detected.
-Artwork Recommendation Accuracy: The recommendation system may be limited to the input data and may not fully reflect personal preferences.
-Real-Time Performance: This program may experience performance issues when processing large amounts of data in real-time.
-Beard and Hair Length Detection: Accurate detection of beard presence and hair length is difficult. 
+1. Face Detection Accuracy: The CascadeClassifier from OpenCV may not perform well under poor lighting or certain angles.
+
+2. DeepFace Performance: Emotion analysis by DeepFace may be inaccurate if the face is unclear or poorly detected.
+
+3. Artwork Recommendation Accuracy: The recommendation system may be limited to the input data and may not fully reflect personal preferences.
+
+4. Real-Time Performance: This program may experience performance issues when processing large amounts of data in real-time.
+
+5. Beard and Hair Length Detection: Accurate detection of beard presence and hair length is difficult. 
